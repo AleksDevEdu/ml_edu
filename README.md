@@ -48,7 +48,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/KaiL4eK">
+      <a href="https://github.com/serykhelena">
         <img src="https://avatars.githubusercontent.com/u/26322075?v=4?size=100" width="100px;" alt="" /> <br />
         <sub><b>Серых Елена</b></sub>
       </a>
