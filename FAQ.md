@@ -45,6 +45,14 @@
 - Или можете установить [VSCode](https://code.visualstudio.com/Download), расширение Jupyter на него и также через [GitHub Desktop](https://desktop.github.com/) склонировать репозиторий и работать у себя на компьютере. В этом случае еще понадобится свежий [Python3.8](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe).
 
 
+## Не видит GPU (Pytorch), хотя она есть в компьютере
+
+Нужно проверить следующие вещи:
+- Карточка от компании Nvidia, если нет, то, к сожалению, G\PU ускорение недоступно
+- Установлена [CUDA](https://developer.nvidia.com/cuda-zone)
+- Если установлена версия CUDA == 11.1, то нужно поставить torch командой `pip3 install torch==1.9.1+cu111 torchvision==0.10.1+cu111 -f https://download.pytorch.org/whl/torch_stable.html`
+    > Источник: [оф.сайт](https://pytorch.org/get-started/locally/)
+
 ## Не работают ссылки на данные
 
 Если у вас не работает импорт файла наподобии `df = pd.read_csv("https://raw.githubusercontent.com/Kail4eK/ml_edu/master/datasets/Cars93_miss.csv")` - попробуйте самостоятельно прописать путь до папки `datasets` в репозитории и обратитесь с вопросм к преподавателю.
