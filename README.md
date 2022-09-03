@@ -8,9 +8,8 @@
 - [Удобный просмотр в Web](#удобный-просмотр-в-web)
 - [Как работать с материалами](#как-работать-с-материалами)
 - [Как выполнять Homework (HW) ноутбуки?](#как-выполнять-homework-hw-ноутбуки)
-- [Интересные статьи (или источники изображений)](#интересные-статьи-или-источники-изображений)
 - [Ресурсы](#ресурсы)
-- [Разработчики курса](#разработчики-курса)
+- [Contributors](#contributors)
 
 ## Удобный просмотр в Web
 
@@ -51,22 +50,16 @@
 
 [Оглавление](#Оглавление)
 
-## Интересные статьи (или источники изображений)
-
-- [Статья о визуализации](https://chernobrovov.ru/articles/kak-naglyadno-pokazat-data-science-vizualizaciya-bolshih-dannyh.html)
-- [Гармоническое среднее](https://newbedev.com/why-is-the-f-measure-a-harmonic-mean-and-not-an-arithmetic-mean-of-the-precision-and-recall-measures)
-
-[Оглавление](#Оглавление)
-
 ## Ресурсы
 
+- Мы записали [видео](https://youtu.be/xUnrbJQKp7g), в котором рассказываем, как настроить среду для разработки (IDE)! Там есть целый выбор из трех разных вариантов!
+- [Страница с заметками по курсу](https://lavish-podium-945.notion.site/ccb6f0ce84de4f76b824f87a8c68fbfa)
 - [Куча полезных и проверенных инструментов - фреймворки](https://lavish-podium-945.notion.site/eaaf439ae5cf489f975665507f88102e)
 - [Ссылка на самые свежие ресурсы - список постоянно обновляется](https://lavish-podium-945.notion.site/61d514fcc0d54c66b5a014ba7db07218)
-- Мы записали [видео](https://youtu.be/xUnrbJQKp7g), в котором рассказываем, как настроить среду для разработки (IDE)! Там есть целый выбор из трех разных вариантов!
 
 [Оглавление](#Оглавление)
 
-## Разработчики курса
+## Contributors
 
 <table>
   <tr>
@@ -80,6 +73,18 @@
       <a href="https://github.com/serykhelena">
         <img src="https://avatars.githubusercontent.com/u/26322075?v=4?size=100" width="100px;" alt="" /> <br />
         <sub><b>Серых Елена</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Muzalevsky">
+        <img src="https://avatars.githubusercontent.com/u/15707493?v=4?size=100" width="100px;" alt="" /> <br />
+        <sub><b>Музалевский Александр</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kazadrin">
+        <img src="https://avatars.githubusercontent.com/u/91419593?v=4?size=100" width="100px;" alt="" /> <br />
+        <sub><b>Дмитрий Духовской</b></sub>
       </a>
     </td>
   </tr>
