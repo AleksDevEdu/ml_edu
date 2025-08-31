@@ -7,7 +7,7 @@
 
 ## 2. Установите Python.
 
-![1](assets/rtfm/1.png)
+![1](../assets/rtfm/1.png)
 
 Обязательно добавьте `python.exe` в переменную окружения `PATH` - шаг 1.
 
@@ -26,31 +26,31 @@
 
 ## 5. Установите Github Desktop
 
-![2](assets/rtfm/2.png)
+![2](../assets/rtfm/2.png)
 
 После жмяка откроется окно в браузере
 
-![3](assets/rtfm/3.png)
+![3](../assets/rtfm/3.png)
 
-![4](assets/rtfm/4.png)
+![4](../assets/rtfm/4.png)
 
-![5](assets/rtfm/5.png)
+![5](../assets/rtfm/5.png)
 
-Ура, Github Desktop установлен! Вы молодцы! 
+Ура, Github Desktop установлен! Вы молодцы!
 
 ## 6. Клонирование репозитория
 
-![6](assets/rtfm/6.png)
+![6](../assets/rtfm/6.png)
 
 1. Выберите клонирование удалённого репозитория.
 
-![7](assets/rtfm/7.png)
+![7](../assets/rtfm/7.png)
 
 1. Выберите клонировать по URL.
 2. Затем скопируйте ссылку на общий репозиторий [https://github.com/AleksDevEdu/ml_edu.git](https://github.com/AleksDevEdu/ml_edu.git)
 3. Нажмите клонировать
 
-![8](assets/rtfm/8.png)
+![8](../assets/rtfm/8.png)
 
 Дождитесь окончания клонирования репозитория.
 Теперь у вас появилась локальная копия общего репозитория, но ещё рано начинать работу.
@@ -58,19 +58,19 @@
 ## 7. Создание своего приватного репозитория
 
 Перейдите в браузере на свою страницу в гитхаб. Выберите вкладку `Repositories`. Нажмите `New`.
-![10](assets/rtfm/10.png)
+![10](../assets/rtfm/10.png)
 
 Указываем название репозитория `ml_course_2024`. Выбираем тип - ПРИВАТНЫЙ.
 
-![11](assets/rtfm/11.png)
+![11](../assets/rtfm/11.png)
 
 Идите в настройки репозитория `Settings`.
 
-![13](assets/rtfm/13.png)
+![13](../assets/rtfm/13.png)
 
- В настройках на вкладке `Collaborators` добавить преподавателей `Muzalevsky, eamaslennikova` 
+ В настройках на вкладке `Collaborators` добавить преподавателей `Muzalevsky, eamaslennikova`
 
-![12](assets/rtfm/12.png)
+![12](../assets/rtfm/12.png)
 
 ## Опубликовать ссылку на ваш репозиторий на странице курса в Moodle!
 
@@ -79,19 +79,19 @@
 Возвращаемся в Github Desktop.
 `Меню -> Repository -> Repository settings`
 
-![14](assets/rtfm/14.png)
+![14](../assets/rtfm/14.png)
 
 В поле ввода вставляете ссылку на свой репозиторий и нажимаете `Save`
 
-![15](assets/rtfm/15.png)
+![15](../assets/rtfm/15.png)
 
 После этого в главном окне жмякаете `Fetch origin`
 
-![16](assets/rtfm/16.png)
+![16](../assets/rtfm/16.png)
 
 Теперь жмите `Publish branch`
 
-![17](assets/rtfm/17.png)
+![17](../assets/rtfm/17.png)
 
 После этого идите в браузер и проверьте, что репозиторий жив и здоров.
 
@@ -106,43 +106,43 @@
 
 Откройте папку с вашим репозиторием в `VS Code`. Откройте первый ноутбук `00_Python.ipynb` и нажмите на кнопку `Выполнить ячейку`.
 
-![18](assets/rtfm/18.png)
+![18](../assets/rtfm/18.png)
 
 После этого жмяк `Среды Python` -> `Создать среду Python` -> `Venv` -> `Python 3.10.11 .....`.
 
-![19](assets/rtfm/19.png)
+![19](../assets/rtfm/19.png)
 
 После проделанных операций может начать автоматически устанавливаться `ipykernel`.
 А после успешной инициализации среды ячейка выполнится.
 
-![20](assets/rtfm/20.png)
+![20](../assets/rtfm/20.png)
 
 
 ## 10. Поработал? - Закоммить
 
-Когда вы заканчиваете работать по курсу, сохраните ноутбук (Ctrl+S) и обязательно залейте ваши наработки в репозиторий. 
+Когда вы заканчиваете работать по курсу, сохраните ноутбук (Ctrl+S) и обязательно залейте ваши наработки в репозиторий.
 Идём в Github Desktop.
 
 Сразу после создания виртуального окружения будет похожая ситуация:
 
-![21](assets/rtfm/21.png)
+![21](../assets/rtfm/21.png)
 
 Для исключения лишних файлов идём в `Меню -> Repository -> Repository settings` на вкладку `Ignored files`. Куда вы дописываете папку `.venv` и жмёте `Save`.
 
-![22](assets/rtfm/22.png)
+![22](../assets/rtfm/22.png)
 
 Теперь список изменённых файлов выглядит так:
 
-![23](assets/rtfm/23.png)
+![23](../assets/rtfm/23.png)
 
 Введите понятное и подробное сообщение, описывающее ваши изменения, и нажмите `Commit`.
 
-![24](assets/rtfm/24.png)
+![24](../assets/rtfm/24.png)
 
 ## А потом Push!
 
-![25](assets/rtfm/25.png)
+![25](../assets/rtfm/25.png)
 
 Проверьте, что всё залилось. И порадуйтесь.
 
-![fin](assets/rtfm/fin.jpg)
+![fin](../assets/rtfm/fin.jpg)
